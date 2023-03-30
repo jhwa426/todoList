@@ -1,6 +1,8 @@
 # todoList:
 
-<summary>Deploying Your Web Application</summary>
+## Deploying Your Web Application
+
+<br>
 
 ### 1.1. How to Deploy Web Apps with a Database
 
